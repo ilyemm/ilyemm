@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm ilyemm! 👋
 
 <!--
 **ilyemm/ilyemm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#### I'm a beginner Full-Stack Developer looking to eventually create beautiful websites and web applications for clients! 😊
+
+- 😄 Pronouns: She/They
+- 🌱 I’m currently learning vanilla HTML/CSS/Javascript to build a good foundation before moving onto learning Bootstrap, Sass, React, etc.
+- 🔭 I’m currently working on Frontend Mentor's challenges with an aim to submit solutions for all free challenges they offer.
+
+For now, I'm purely using this Github as a collection of solutions on Frontend Mentor but hope to eventually breanch out and create my own website and webapps to show off my skills in the future. Looking forward to reaching that level of expertise in full-stack one day! 😁
