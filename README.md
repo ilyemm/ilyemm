@@ -1,4 +1,4 @@
-### Hi, I'm ilyemm! 👋
+### Hi, I'm ilyemm (or Emily)! 👋
 
 <!--
 **ilyemm/ilyemm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 #### I'm a beginner Android Developer looking to eventually create awesome Android applications for clients! 😊
 
-- 😄 Pronouns: She/They
+- 😄 Pronouns: she/they
 - 🌱 I’m currently learning Kotlin to build a good foundation before moving onto incorporating other tools into the process
 - 🔭 I’m currently working on Google's course on Udacity called "Developing Android Apps with Kotlin".
 
